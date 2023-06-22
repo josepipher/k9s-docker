@@ -6,5 +6,6 @@ docker run --it --privileged -v ~/.kube/config:/root/.kube/config quay.io/derail
 
 ## Tips
 | Action        | Description        | Examples |
+| :---          | :---               | :---     |
 | /<keyword>    | Filter selection   | /abc     |
 | :<searchword> | kubectl get deploy | :deploy  |
